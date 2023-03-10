@@ -20,13 +20,13 @@ public class Person {
     public void setAge(int age) {
         this.age = age;
     }
-    public String getName(String name) {
+    public String getName() {
         return name;
     }
-    public String getSurname(String surname) {
+    public String getSurname() {
         return surname;
     }
-    public int getAge(int age) {
+    public int getAge() {
         return age;
     }
 
